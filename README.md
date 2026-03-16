@@ -34,7 +34,7 @@ A **Spring Boot application** to monitor Docker containers running on your syste
                 |    Grafana    |
                 |  Visualization|
                 +---------------+
-
+---
 ## Features
 
 - ✅ List all Docker containers with basic info: ID, Name, Image, Status
@@ -59,6 +59,7 @@ A **Spring Boot application** to monitor Docker containers running on your syste
 - **Docker** (for Prometheus & Grafana)
 
 ---
+## Structure
 monitoring-dashboard/
 │
 ├─ src/main/java/com/example/devops/monitoring_dashboard/
